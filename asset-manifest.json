@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NFTSneakerMarketplace/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/NFTSneakerMarketplace/static/js/main.aa1ab353.chunk.js",
+    "main.js.map": "/NFTSneakerMarketplace/static/js/main.aa1ab353.chunk.js.map",
+    "runtime-main.js": "/NFTSneakerMarketplace/static/js/runtime-main.26afa7a8.js",
+    "runtime-main.js.map": "/NFTSneakerMarketplace/static/js/runtime-main.26afa7a8.js.map",
+    "static/css/2.57e0cd6e.chunk.css": "/NFTSneakerMarketplace/static/css/2.57e0cd6e.chunk.css",
+    "static/js/2.e61f65c5.chunk.js": "/NFTSneakerMarketplace/static/js/2.e61f65c5.chunk.js",
+    "static/js/2.e61f65c5.chunk.js.map": "/NFTSneakerMarketplace/static/js/2.e61f65c5.chunk.js.map",
+    "static/js/3.251ea911.chunk.js": "/NFTSneakerMarketplace/static/js/3.251ea911.chunk.js",
+    "static/js/3.251ea911.chunk.js.map": "/NFTSneakerMarketplace/static/js/3.251ea911.chunk.js.map",
+    "index.html": "/NFTSneakerMarketplace/index.html",
+    "static/css/2.57e0cd6e.chunk.css.map": "/NFTSneakerMarketplace/static/css/2.57e0cd6e.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/NFTSneakerMarketplace/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.e61f65c5.chunk.js.LICENSE.txt": "/NFTSneakerMarketplace/static/js/2.e61f65c5.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/NFTSneakerMarketplace/static/media/bootstrap-icons.c1d7432e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26afa7a8.js",
+    "static/css/2.57e0cd6e.chunk.css",
+    "static/js/2.e61f65c5.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.aa1ab353.chunk.js"
+  ]
+}
